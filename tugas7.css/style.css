@@ -1,0 +1,17 @@
+body{
+  background-image: url('img/stupa_Borobudur.jpg');
+background-attachment: fixed;
+background-size:cover;
+}
+div{
+width:900px;
+height:1500px;
+border:2px solid red;
+margin:0 auto;
+color:blue;
+text align:justify;
+background-color:white;
+  background-image: url('img/avocado.jpg');
+  background-repeat:repeat;
+  background-size: 450px;
+}
